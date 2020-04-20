@@ -4,10 +4,10 @@
     "displayName": "Rotating Chart by MAQ Software",
     "guid": "rotatingChart1823AN39DB23210918ADF752ECB2A251",
     "visualClassName": "BarChart",
-    "version": "3.2.0",
+    "version": "3.2.2",
     "description": "Automatically flipping chart with a set frequency which can be used to display different measures sliced by categories",
-    "supportUrl": "https://github.com/maqsoftware/PowerBI-visuals/issues",
-    "gitHubUrl": "https://github.com/maqsoftware/PowerBI-visuals"
+    "supportUrl": "https://github.com/maqsoftware/RotatingChart/issues",
+    "gitHubUrl": "https://github.com/maqsoftware/RotatingChart"
   },
   "apiVersion": "2.5.0",
   "author": {
